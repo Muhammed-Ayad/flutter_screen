@@ -5,7 +5,7 @@ author: Clovis Nicolas <clovisnicolas0@gmail.com>
 homepage: https://github.com/clovisnicolas/flutter_screen
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  SDK: ">=3.2.3 <4.0.0"
 
 dependencies:
   flutter:
