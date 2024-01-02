@@ -5,11 +5,11 @@ author: Clovis Nicolas <clovisnicolas0@gmail.com>
 homepage: https://github.com/clovisnicolas/flutter_screen
 
 environment:
-  sdk: '>=2.0.0 <3.0.0'
+  SDK: ">=3.2.3 <4.0.0"
 
 dependencies:
   flutter:
-    sdk: flutter
+    sdk: '>=3.2.3 <4.0.0'
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
